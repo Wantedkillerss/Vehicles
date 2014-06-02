@@ -1,4 +1,3 @@
 Vehicles
-========
-
-Ridable vehicles only visible to selected viewers and subclassable to enable more types of vehicles.
+===
+This is a PocketMine-MP plugin that enables adds vehicles for players to transport around. It also allows other plugins to register new vehicles.
