@@ -2,5 +2,6 @@
 
 namespace legendofmcpe\vehicles;
 
-class Vehicle{
+class VehicleShape{
+
 }
